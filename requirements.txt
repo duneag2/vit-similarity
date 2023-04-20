@@ -10,3 +10,4 @@ timm==0.6.12
 torch==1.8.0+cu111
 torchvision==0.9.0+cu111
 argparse==1.1
+opencv-python==4.5.5.62
