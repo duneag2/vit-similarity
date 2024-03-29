@@ -1,4 +1,4 @@
-# Multimodal integration of neuroimaging and genetic data for the diagnosis of mood disorders based on computer vision models (ViT-XGBoost)
+# Multi-input Vision Transformer with Similarity Matching
 ## Official Pytorch Implementation
 
 #### This is a source code for our paper [Multi-input Vision Transformer with Similarity Matching]([https://www.sciencedirect.com/science/article/pii/S0022395624001006](https://link.springer.com/chapter/10.1007/978-3-031-46005-0_16)) by Seungeun Lee, Sung Ho Hwang, Saelin Oh, Beom Jin Park, and Yongwon Cho.
